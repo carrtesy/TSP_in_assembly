@@ -1,5 +1,5 @@
 
-# Computer Architecture, 2019 Spring, Term project: solving TSP Problem by MIPS
+# Computer Architecture, 2019 Spring, Term project: Solving TSP Problem by MIPS Assembly
 ### by Dongmin Kim, Chan Lim, SKKU
 
 ![flowchart](https://github.com/dongminkim0220/TSP_by_MIPS_assembly/blob/master/CO_Project_diagram.jpg)
